@@ -1,0 +1,21 @@
+* {
+	font-family: sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	line-height: 1.5; 
+}
+
+
+
+.content{
+    
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.062);
+    .card{
+        p{
+            padding-top: 10px;
+            font-size: 12px;
+        }
+    }
+}
+$card-height: 100%
